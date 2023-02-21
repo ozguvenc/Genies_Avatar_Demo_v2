@@ -4,7 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/#(S)cenes/Genies_Avatar_Demo_v2.1.unity
+    guid: ae690c05fdfd6ae4aa8e1058f624bb84
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: db0b4739b19c89045b5b25c3f13fc8b9,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 778c46809bf64974ba8d0e253879672e, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: d3962cb50fb9ebd45a6eaba464902912, type: 2}
+  m_UseUCBPForAssetBundles: 0

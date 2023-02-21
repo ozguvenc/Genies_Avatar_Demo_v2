@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\(U)nity - Live Projects\Genies_Avatar_Demo_v2\.utmp\RelWithDebInfo\w5c12594\armeabi-v7a'
+ninja: no work to do.

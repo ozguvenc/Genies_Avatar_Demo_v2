@@ -1,0 +1,7 @@
+Executable : C:\Program Files\Unity\Hub\Editor\2023.1.0a26\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\cmake\3.22.1\bin\ninja.exe
+arguments : 
+-C
+C:\(U)nity - Live Projects\Genies_Avatar_Demo_v2\.utmp\RelWithDebInfo\w5c12594\armeabi-v7a
+swappywrapper
+jvmArgs : 
+

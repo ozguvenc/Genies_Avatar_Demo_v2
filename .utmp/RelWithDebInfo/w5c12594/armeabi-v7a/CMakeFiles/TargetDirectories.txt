@@ -1,0 +1,5 @@
+C:/(U)nity - Live Projects/Genies_Avatar_Demo_v2/.utmp/RelWithDebInfo/w5c12594/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/(U)nity - Live Projects/Genies_Avatar_Demo_v2/.utmp/RelWithDebInfo/w5c12594/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/(U)nity - Live Projects/Genies_Avatar_Demo_v2/.utmp/RelWithDebInfo/w5c12594/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/(U)nity - Live Projects/Genies_Avatar_Demo_v2/.utmp/RelWithDebInfo/w5c12594/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/(U)nity - Live Projects/Genies_Avatar_Demo_v2/.utmp/RelWithDebInfo/w5c12594/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
